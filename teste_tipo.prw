@@ -1,4 +1,4 @@
-##INCLUDE 'totvs.ch'
+#INCLUDE 'totvs.ch'
 
 /*/{Protheus.doc} nomeFunction
     (long_description)
